@@ -1,6 +1,9 @@
 # LWC Number Stepper
 Here’s a simple Lightning Web Component (LWC) implementation for a number stepper. This component allows users to increment or decrement a numeric field, and it can be used for Salesforce number fields.
 
+![numberstepper](https://github.com/user-attachments/assets/cb714a31-135a-415f-9eb4-64e54d9e6d1b)
+
+
 To use the `NumberStepper` component, simply include it in your Lightning Web Component with the desired values:
 
 ```
